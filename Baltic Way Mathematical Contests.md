@@ -1,6 +1,6 @@
 <font align=center color=00ff00>
 
-# $\text{Baltic Mathematical Contests}$
+# $\text{Baltic Way Mathematical Contests}$
 
 </font>
 
